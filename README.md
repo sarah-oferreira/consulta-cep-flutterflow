@@ -1,43 +1,49 @@
-
-📍 Consulta de CEP - FlutterFlow
+# 📍 Consulta de CEP - FlutterFlow
+# viacep
 
 Aplicação desenvolvida com FlutterFlow que permite consultar um CEP e preencher automaticamente os dados de endereço utilizando a API ViaCEP.
+A new Flutter project.
 
 ---
 
-🚀 Funcionalidades
+## 🚀 Funcionalidades
 
-- 🔎 Consulta de CEP em tempo real
-- 📡 Integração com API ViaCEP
+- 🔎 Consulta de CEP em tempo real  
+- 📡 Integração com API ViaCEP  
 - 🏠 Preenchimento automático de:
   - Rua
   - Bairro
   - Cidade
-  - Estado
+  - Estado  
 - 📱 Interface simples e intuitiva
-- 📂 Menu lateral (Drawer) com exibição de perfil do usuário
+-  📂 Menu lateral (Drawer) com exibição de perfil do usuário 
 
 ---
 
-🛠️ Tecnologias utilizadas
+## 🛠️ Tecnologias utilizadas
 
-- FlutterFlow
-- API ViaCEP
-- JSON
-- HTTP Requests
+- FlutterFlow  
+- API ViaCEP  
+- JSON  
+- HTTP Requests  
 
 ---
 
-📸 Demonstração
+## 📸 Demonstração
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3e5d09e1-a44a-4099-813b-2a3f81188b2b" width="230"/>
-  <img src="https://github.com/user-attachments/assets/529a6736-0e69-4fc9-b4f0-ac21a34bf5f0" width="230"/>
-</p><p align="center">
-  <i>Interface do aplicativo desenvolvido no FlutterFlow</i>
-</p>---
+   <img width="230"  alt="image" src="https://github.com/user-attachments/assets/13e89c61-176e-42ee-8a25-ad601634e486" />
+   <img width="230"  alt="image" src="https://github.com/user-attachments/assets/244e6274-f726-48ff-aae8-d94b15fb3fa7" />
+   <img width="230"  alt="image" src="https://github.com/user-attachments/assets/398d022d-50e9-43a5-873b-0241ff47a9bb" />
+</p>
 
-📚 Como funciona
+<p align="center">
+  <i>Interface do aplicativo desenvolvido no FlutterFlow</i>
+</p>
+
+---
+
+## 📚 Como funciona
 
 1. O usuário digita um CEP
 2. O sistema faz uma requisição para a API ViaCEP
@@ -45,12 +51,12 @@ Aplicação desenvolvida com FlutterFlow que permite consultar um CEP e preenche
 
 ---
 
-🌐 API utilizada
+## 🌐 API utilizada
 
 - https://viacep.com.br/
 
 ---
 
-👩‍💻 Desenvolvido por
+## 👩‍💻 Desenvolvido por
 
 Sarah Oliveira Ferreira 💙
