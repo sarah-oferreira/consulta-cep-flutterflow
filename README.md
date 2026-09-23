@@ -1,4 +1,4 @@
-# 📍 Consulta de CEP - FlutterFlow
+#  Consulta de CEP - FlutterFlow
 # viacep
 
 Aplicação desenvolvida com FlutterFlow que permite consultar um CEP e preencher automaticamente os dados de endereço utilizando a API ViaCEP.
@@ -6,21 +6,21 @@ Aplicação desenvolvida com FlutterFlow que permite consultar um CEP e preenche
 
 ---
 
-## 🚀 Funcionalidades
+##  Funcionalidades
 
-- 🔎 Consulta de CEP em tempo real  
-- 📡 Integração com API ViaCEP  
-- 🏠 Preenchimento automático de:
+-  Consulta de CEP em tempo real  
+-  Integração com API ViaCEP  
+- Preenchimento automático de:
   - Rua
   - Bairro
   - Cidade
   - Estado  
-- 📱 Interface simples e intuitiva
--  📂 Menu lateral (Drawer) com exibição de perfil do usuário 
+-  Interface simples e intuitiva
+-   Menu lateral (Drawer) com exibição de perfil do usuário 
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+##  Tecnologias utilizadas
 
 - FlutterFlow  
 - API ViaCEP  
@@ -29,7 +29,7 @@ Aplicação desenvolvida com FlutterFlow que permite consultar um CEP e preenche
 
 ---
 
-## 📸 Demonstração
+##  Demonstração
 
 <p align="center">
    <img width="230"  alt="image" src="https://github.com/user-attachments/assets/13e89c61-176e-42ee-8a25-ad601634e486" />
@@ -43,7 +43,7 @@ Aplicação desenvolvida com FlutterFlow que permite consultar um CEP e preenche
 
 ---
 
-## 📚 Como funciona
+##  Como funciona
 
 1. O usuário digita um CEP
 2. O sistema faz uma requisição para a API ViaCEP
@@ -51,7 +51,7 @@ Aplicação desenvolvida com FlutterFlow que permite consultar um CEP e preenche
 
 ---
 
-## 🌐 API utilizada
+##  API utilizada
 
 - https://viacep.com.br/
 
@@ -59,4 +59,4 @@ Aplicação desenvolvida com FlutterFlow que permite consultar um CEP e preenche
 
 ## 👩‍💻 Desenvolvido por
 
-Sarah Oliveira Ferreira 💙
+Sarah Oliveira Ferreira 
